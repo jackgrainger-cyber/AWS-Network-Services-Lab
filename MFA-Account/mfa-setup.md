@@ -5,3 +5,5 @@
 - Successfully tested with generated codes.
 
 **Result:** Root account now requires MFA for login.
+docs/MFA_1.0.png
+
