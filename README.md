@@ -1,7 +1,7 @@
 # AWS-Network-Services-Lab
 
 
-This repository documents a series of hands-on AWS networking and security labs demonstrating how to design, secure, and monitor cloud infrastructure. The goal is to show practical **network engineering and cloud security skills** relevant to enterprise environments.
+This repository documents a series of hands-on AWS networking and security labs demonstrating how to design, secure, and monitor cloud infrastructure. The goal is to show practical network engineering and cloud security skills relevant to enterprise environments.
 
 ## 🚀 Lab Objectives
 - Design and deploy a **custom VPC** with subnets, route tables, and internet gateway
