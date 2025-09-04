@@ -28,7 +28,7 @@ This repository documents a series of hands-on AWS networking and security labs 
 - **Documentation:** Professional reporting, troubleshooting notes, architecture diagrams
 
 ## 📊 Architecture Overview
-![Full Architecture](./diagrams/full-architecture.png)
+![Full Architecture](./docs/aws_network_services_diagram.png)
 
 
 ---
