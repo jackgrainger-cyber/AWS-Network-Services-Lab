@@ -5,7 +5,7 @@
 - Attached an **Internet Gateway** to enable external connectivity.
 
 ## Evidence
-![VPC](docs/VPC-Screenshots/VPC_1.0.png)
-![VPC](docs/VPC-Screenshots/VPC_1.1.png)
-![VPC](docs/VPC-Screenshots/VPC_1.2.png)
-![VPC](docs/VPC-Screenshots/VPC_1.3.png)
+![VPC](../docs/VPC-Screenshots/VPC_1.0.png)
+![VPC](../docs/VPC-Screenshots/VPC_1.1.png)
+![VPC](../docs/VPC-Screenshots/VPC_1.2.png)
+![VPC](../docs/VPC-Screenshots/VPC_1.3.png)
