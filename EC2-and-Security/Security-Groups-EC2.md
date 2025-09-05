@@ -19,8 +19,8 @@ This lab demonstrates how to create and apply a custom **AWS Security Group** to
 - Launched a new **EC2 instance** and selected the created Security Group under **Network Settings**.  
 - Successfully launched the instance.  
 
-📸 ![EC2](../docs/Security-Groups-EC2-Screenshots/Sec-GroupEC2_1.1.png)
-   ![EC2](../docs/Security-Groups-EC2-Screenshots/Sec-GroupEC2_1.2.png)
+📸 ![EC2](../docs/Security-Groups-EC2-Screenshots/Sec-GroupEC2_1.4.png)
+   ![EC2](../docs/Security-Groups-EC2-Screenshots/Sec-GroupEC2_1.5.png)
 
 ---
 
