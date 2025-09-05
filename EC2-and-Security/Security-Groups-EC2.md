@@ -39,7 +39,7 @@ This lab demonstrates how to create and apply a custom **AWS Security Group** to
   - **HTTP (80)** from a specific IP.  
 - Saved the changes.  
 
-📸 *Screenshot: Inbound rules configuration*  
+📸 ![EC2](../docs/Security-Groups-EC2-Screenshots/Sec-GroupEC2_1.10.png)
 
 ---
 
@@ -47,9 +47,8 @@ This lab demonstrates how to create and apply a custom **AWS Security Group** to
 - Re-tested connection:  
   - Successfully connected via **SSH** to the EC2 instance.  
   - Navigated to the instance’s public IPv4 in a browser → received the **Apache “It Works” page**.  
-
-📸 *Screenshot: Successful SSH connection*  
-📸 *Screenshot: “It Works” message displayed in browser*  
+  
+📸 ![EC2](../docs/Security-Groups-EC2-Screenshots/Sec-GroupEC2_1.11.png) 
 
 ---
 
@@ -61,5 +60,3 @@ This lab demonstrates how to create and apply a custom **AWS Security Group** to
 - Properly scoped rules (limiting to specific IPs) are critical for security.  
 
 ---
-
-✅ **Outcome:** Successfully created, applied, and validated a Security Group for an EC2 instance. Demonstrated knowledge of inbound rule configuration, troubleshooting failed connections, and verifying proper access once rules were applied.
